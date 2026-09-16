@@ -1,0 +1,19 @@
+# Compiled output
+out/
+
+# IDE files
+.idea/
+*.iml
+nbproject/
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Logs
+*.log
